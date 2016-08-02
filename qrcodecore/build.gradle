@@ -9,6 +9,3 @@ android {
         targetSdkVersion ANDROID_BUILD_TARGET_SDK_VERSION as int
     }
 }
-
-// gradle uploadArchives
-//apply from: 'https://raw.githubusercontent.com/bingoogolapple/PublishAar/master/central-publish.gradle'
